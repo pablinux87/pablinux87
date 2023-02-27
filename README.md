@@ -4,9 +4,10 @@
   <code>Jr Developer in progress...🧑‍💻</code>
   <br/>
   <br/>
+  <br/>
   <div>
     <a href="https://www.linkedin.com/in/pabloratetro/"><img src="https://www.svgrepo.com/show/57068/linkedin.svg" alt="LinkedIn Profile" height="30px"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/pabloratetro/"><img src="https://www.svgrepo.com/show/295345/internet.svg" alt="In pregress..." height="30px"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pabloratetro/"><img src="https://www.svgrepo.com/show/295345/internet.svg" alt="In progress..." height="30px"></a>&nbsp;&nbsp;&nbsp;
   </div>
 </div>
 <br/>
