@@ -19,8 +19,8 @@
 <br/>
 <h2 align="center">.:: technologies ::.</h2>
 <div align="center">
-    <img src="https://www.svgrepo.com/show/373669/html.svg"  height="32px"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/373535/css.svg"  height="32px"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/373669/html.svg"  height="33px"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/373535/css.svg"  height="33px"/>&nbsp;
     <img src="https://www.svgrepo.com/show/353925/javascript.svg"  height="32px"/>&nbsp;
     <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg"  height="32px"/>&nbsp;
     <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"  height="32px"/>&nbsp;
