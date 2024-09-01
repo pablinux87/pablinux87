@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋! I'm Pablo...</h1>
-  <code>Jr Developer in progress...🧑‍💻</code>
+  <code>Developer in progress...🧑‍💻</code>
   <br/>
   <br/>
   <br/>
